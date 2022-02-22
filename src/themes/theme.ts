@@ -13,11 +13,10 @@ export default extendTheme({
   },
   colors: {
     brand: {
-      // primary: "#FF6902",
-      // secondary: "#FD1F55",
-      primary: "#48FE9D",
+      primari:"red",
       secondary: "#636CBB",
       tertiary: "#9b9c9e",
+      background:"#f4f9ff",
       dark:"#1a202c",
       light:"#ffffff"
     },
